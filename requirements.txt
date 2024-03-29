@@ -1,0 +1,6 @@
+fastapi==0.109.1
+uvicorn==0.27.0.post1
+pymongo[srv]==4.6.1
+redis
+passlib
+bcrypt
