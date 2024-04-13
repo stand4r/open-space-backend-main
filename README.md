@@ -82,7 +82,7 @@ open-space-backend-main/
 
 ## Разработчики
 
-- Дмитрий (@S_D6678) - sahojkodima888@gmail.com
+- Дмитрий - sahojkodima888@gmail.com
 
 ## Лицензия
 
